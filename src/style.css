@@ -12,6 +12,12 @@ body {
   font-style: normal;
 }
 
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
 :root {
   --color-blue: #00acdc;
   --color-black: #000;

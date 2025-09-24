@@ -28,6 +28,7 @@ body {
   justify-content: space-between;
   align-items: center;
   width: 100%;
+  padding-inline: 50px;
 }
 
 .container {
@@ -35,6 +36,10 @@ body {
   justify-content: space-between;
   align-items: center;
   width: 100%;
+}
+
+.logo__img {
+  display: block;
 }
 
 .header__list {
